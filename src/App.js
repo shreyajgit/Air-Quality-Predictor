@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Welcome from './pages/Welcome';
 import AboutUs from './pages/AboutUs';
 import FormPage from './pages/AirQualityForm';
-import ResultPage from './pages/ResultPage';
+// import ResultPage from './pages/ResultPage';
 
 import Navbar from "./components/Navbar";
 import Footer from './components/Footer';
