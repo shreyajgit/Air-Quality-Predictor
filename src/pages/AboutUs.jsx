@@ -10,10 +10,10 @@ const Page = () => {
               About the Project
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed mt-3 text-base lg:text-lg font-poppins text-green-700">
-              The Air Quality Predictor is an AI-powered project that predicts the quality of air based on four parameters: year, month, day, and hour of the measure. 
+              The Air Quality Predictor is an ML-powered project that predicts the quality of air based on four parameters: 'PM2.5', 'PM10', 'NO', 'NO2', 'NOx', 'NH3', 'CO', 'SO2', 'Toluene' 
               The project uses a supervised machine learning algorithm called Random Forest Regressor to train a model on historical air quality data. 
-              The model was trained on a dataset of historical air quality data. The accuracy of the model on the training data is around 98%, and on testing data, 
-              the accuracy is around 91%. With the help of this project, one can predict the PM2.5 (particles with a diameter of 2.5 micrometers or smaller) level in the air.
+              The model was trained on a dataset of historical air quality data. The accuracy of the model on the training data is above 90%, and on testing data, 
+               With the help of this project, one can predict the PM2.5 (particles with a diameter of 2.5 micrometers or smaller) level in the air.
             </p>
           </div>
           <div className="flex lg:w-2/3 w-full sm:flex-row flex-col mx-auto px-8 sm:px-0 items-end sm:space-x-4 sm:space-y-0 space-y-4">
